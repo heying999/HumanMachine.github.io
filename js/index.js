@@ -38,7 +38,7 @@ c.width = k.radius * 2;
 c.height = k.radius * 2;
 
 var img = new Image();
- img.src = 'https://lh5.googleusercontent.com/eBEmDWsq3ijhp7_k9TQZQ75wa0WH7O2MUfucBdH3GrFlNlYHnjdJCQTSzwCln7VDNCl6edHjz8cWVkU=w2790-h1396-rw';
+ img.src = 'http://payload530.cargocollective.com/1/15/489393/12912508/Redbook001.jpg';
 var fill = ctx.createPattern(img, 'repeat');
 
 var scale, step, cx;
